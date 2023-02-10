@@ -26,10 +26,11 @@ Choose the link that corresponds to the operating system of your computer.
 ---
 
 ### MacOS
+> ℹ️ macOS Mojave 10.14 (released in October 2018) or later includes a CH34x driver by Apple
 
-##### MacOS Drivers
+##### Drivers for macOS versions 10.13 or earlier
 * [NodeMCU V2](https://www.silabs.com/documents/public/software/Mac_OSX_VCP_Driver.zip)
-* [NodeMCU V3](http://www.wch.cn/downloads/file/178.html) 
+* [NodeMCU V3](https://www.wch.cn/downloads/CH341SER_MAC_ZIP.html) 
 
 #####  Extract the downloaded file for MacOS
 * for V2: Unzip the folder CP210x and double click on the application CP210xVCPInstaller_x64 (or x86)
